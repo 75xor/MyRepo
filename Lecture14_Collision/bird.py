@@ -2,7 +2,7 @@ import game_framework
 from pico2d import *
 import game_world
 from random import *
-//h
+
 
 
 PIXEL_PER_METER = (10.0 / 0.3)  # 10 pixel 30 cm
